@@ -1,0 +1,7 @@
+*.o
+*.so
+*.dylib
+build
+TensorMath.c
+random.c
+lib/TH/THGeneral.h
